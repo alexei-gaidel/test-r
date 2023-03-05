@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Humblr</string>
+    <string name="title_home">Subreddits</string>
+    <string name="title_dashboard">Favorite</string>
+    <string name="title_notifications">Profile</string>
+    <string name="new_string">New</string>
+    <string name="popular">Popular</string>
+    <string name="subscribe_button">Subscribe Button</string>
+    <string name="subreddit_description">Subreddit Description</string>
+    <string name="about_community">About Community</string>
+    <string name="created">Created %1$s</string>
+    <string name="subscribers">Subscribers: %1$s</string>
+    <string name="you_are_subscribed"><u>You are subscribed: %1$s</u></string>
+    <string name="yes">Yes.</string>
+    <string name="no"> No.</string>
+    <string name="change"><u>change</u></string>
+    <string name="toolbar_feed">%1$s - FEED</string>
+    <string name="toolbar_info">ABOUT %1$s</string>
+    <string name="share_url">Share URL</string>
+    <string name="back_to_subreddit">Back to Subreddit</string>
+    <string name="comments">Comments: %1$s</string>
+    <string name="save">Save</string>
+    <string name="createdDate">Created</string>
+</resources>
